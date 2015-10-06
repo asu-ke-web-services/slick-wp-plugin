@@ -1,6 +1,6 @@
 <?php
 function slick_scripts () {
-  wp_register_style( 'slick', get_stylesheet_directory_uri().'/assets/slick/slick.css', array(), '0.0.2', 'all' );
+  wp_register_style( 'slick', get_stylesheet_directory_uri().'/stylesheets/slick.css', array(), '0.0.2', 'all' );
 
   wp_enqueue_style( 'sustainability-solutions-wordpress-theme' );
 
