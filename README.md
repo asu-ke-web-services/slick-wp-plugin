@@ -7,12 +7,25 @@ Simple install and activate on the blog you want to have Slick on.
 Example markup:
 
 ```
-<div class="slick-responsive">
-    <div>
-        <img class="img-responsive" src="1.png" />
+<div class="gray-back">
+  <div class="container">
+    <div class="slick-responsive">
+      <div>
+        <img class="img-responsive" src="http://placehold.it/300x300" />
+      </div>
+      <div>
+        <img class="img-responsive" src="http://placehold.it/300x300" />
+      </div>
+      <div>
+        <img class="img-responsive" src="http://placehold.it/300x300" />
+      </div>
+      <div>
+        <img class="img-responsive" src="http://placehold.it/300x300" />
+      </div>
+      <div>
+        <img class="img-responsive" src="http://placehold.it/300x300" />
+      </div>
     </div>
-    <div>
-        <img class="img-responsive" src="2.png" />
-    </div>
+  </div>
 </div>
 ```
